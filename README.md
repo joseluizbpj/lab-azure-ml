@@ -23,4 +23,4 @@ Resumo de criação de modelo de machine learning usando Azure AI.
 Por limitações da conta trial, o endpoint para testes não pode ser criado.
 ![Erro de deploy](imagens/6.png)
 
-Fonte:![Tutorial microsoft](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html)
+Fonte:[Tutorial microsoft](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html)
