@@ -11,4 +11,4 @@ Resumo de criação de modelo de machine learning usando Azure AI.
 ## 🧠 Etapas realizadas
 
 ### 1. Criação do ambiente
-![Workspace criado]()
+![Workspace criado](imagens/1.png)
